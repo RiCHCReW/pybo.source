@@ -1,1 +1,1 @@
-call ..\..\venv\pybo\Scripts\activate.bat
+@call ..\..\venv\pybo\Scripts\activate.bat

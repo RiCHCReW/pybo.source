@@ -1,1 +1,1 @@
-call ..\..\venv\pybo\Scripts\deactivate.bat
+@call ..\..\venv\pybo\Scripts\deactivate.bat
