@@ -1,0 +1,1 @@
+call ..\..\venv\pybo\Scripts\activate.bat
